@@ -19,8 +19,6 @@ function calculateSalary(role) {
    case 'other':
      return 1000;
      
-     
-     
  }
 }
 
